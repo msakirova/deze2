@@ -101,7 +101,7 @@ namespace deze2
             Console.ReadKey();
 
             //Задание 4
-            Console.WriteLine("#4");
+            Console.WriteLine("#");
             Console.WriteLine("Введите Ваше ФИО");
             var name4 = Console.ReadLine();
             Console.WriteLine("Введите номер зачетной книжки");

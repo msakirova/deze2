@@ -1,3 +1,5 @@
 <Solution>
-  <Project Path="deze2/deze2.csproj" />
+  <Project Path="deze2/class.csproj" />
+  <Project Path="labTumakov/labTumakov.csproj" Id="38e370d8-d109-4985-a8f3-d9ea35cff312" />
+  <Project Path="realdeze2/realdeze2.csproj" Id="2a719505-1061-4720-a9c9-b4717b92f613" />
 </Solution>
