@@ -8,8 +8,8 @@ namespace labTumakov.Enums
     }
     public enum Universitets
     {
-        KGU = 0,
-        KAI,
-        KHTI
+        КГУ = 0,
+        КАИ,
+        КХТИ
     }
 }
